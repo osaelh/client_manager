@@ -1,0 +1,10 @@
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\bin\Debug\clients_manager.exe.config
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\bin\Debug\clients_manager.exe
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\bin\Debug\clients_manager.pdb
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\obj\Debug\clients_manager.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\obj\Debug\clients_manager.Form1.resources
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\obj\Debug\clients_manager.Properties.Resources.resources
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\obj\Debug\clients_manager.csproj.GenerateResource.cache
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\obj\Debug\clients_manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\obj\Debug\clients_manager.exe
+C:\Users\Administrateur\source\repos\clientsManager\clients_manager\obj\Debug\clients_manager.pdb
